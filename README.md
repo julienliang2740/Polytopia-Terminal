@@ -1,7 +1,5 @@
-# Polytopia-Terminal
+# Polytopia-Terminal ([polyterminator.com](https://polyterminator.com/)
 Data visualization for Polytopia games
-
-Check it out at [polyterminator.com](https://polyterminator.com/)
 
 <img width="972" height="521" alt="image" src="https://github.com/user-attachments/assets/f0f2ffdf-5f54-4797-a5d2-96d1d8884e6e" />
 <img width="990" height="842" alt="Screenshot 2026-01-09 152720" src="https://github.com/user-attachments/assets/445762de-1010-406c-a706-782a08afa6a5" />
