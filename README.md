@@ -1,4 +1,4 @@
-# Polytopia-Terminal ([polyterminator.com](https://polyterminator.com/)
+# Polytopia-Terminal - [polyterminator.com](https://polyterminator.com/)
 Data visualization for Polytopia games
 
 <img width="972" height="521" alt="image" src="https://github.com/user-attachments/assets/f0f2ffdf-5f54-4797-a5d2-96d1d8884e6e" />
